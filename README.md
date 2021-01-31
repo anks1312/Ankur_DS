@@ -33,7 +33,8 @@ An education company sells online courses to industry professionals. On any give
 
 The company markets its courses on several websites and search engines like Google. Once these people land on the website, they might browse the courses or fill up a form for the course or watch some videos. When these people fill up a form providing their email address or phone number, they are classified to be a lead. Moreover, the company also gets leads through past referrals. Once these leads are acquired, employees from the sales team start making calls, writing emails, etc. Through this process, some of the leads get converted while most do not. The typical lead conversion rate is around 30%. 
 
-<img src="/Images/Lead_Scoring.png" width="200" height="350">
+
+![](/Images/Lead_Scoring.png)
 
 To make this process more efficient, lets identify the most potential leads, also known as ‘Hot Leads’. If they successfully identify this set of leads, the lead conversion rate should go up as the sales team will now be focusing more on communicating with the potential leads rather than making calls to everyone.
 

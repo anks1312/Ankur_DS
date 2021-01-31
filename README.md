@@ -1,7 +1,7 @@
 # [1. IMDB Movies](https://github.com/anks1312/Ankur_Portfolio/tree/main/IMDB_Movies)
 I have used the data for the 100 top-rated movies from the past decade along with various pieces of information about the movie, its actors, and the voters who have rated these movies online. In this, I found some interesting insights into these movies and their voters, using Python.
 
-![](/Images/IMDB.png | width=300)
+![](/Images/IMDB.png)
 <img src="/Images/IMDB.png" width="300" height="300"/>
 
 

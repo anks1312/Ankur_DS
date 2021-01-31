@@ -2,7 +2,7 @@
 I have used the data for the 100 top-rated movies from the past decade along with various pieces of information about the movie, its actors, and the voters who have rated these movies online. In this, I found some interesting insights into these movies and their voters, using Python.
 
 ![](/Images/IMDB.png)
-<img src="/Images/IMDB.png" width="100" height="100"/>
+<img src="/Images/IMDB.png" width="300" height="300"/>
 
 # [2. Risk Analytics in Banking and Financial Services using EDA](https://github.com/anks1312/Ankur_Portfolio/tree/main/Finance_EDA)
 The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it as their advantage by becoming a defaulter. 

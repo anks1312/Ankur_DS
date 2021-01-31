@@ -5,13 +5,13 @@ I have used the data for the 100 top-rated movies from the past decade along wit
 
 
 
-# [2. Risk Analytics in Banking and Financial Services using EDA](https://github.com/anks1312/Ankur_Portfolio/tree/main/Finance_EDA)
+# [2. Risk Analytics in Banking and Financial Services using EDA](https://github.com/anks1312/Ankur_Portfolio/tree/main/Risk_Analytics)
 The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it as their advantage by becoming a defaulter. 
 
 ![](/Images/EDA_Univariate.png)
 
 This analysis aims to identify patterns which indicate if a client has difficulty paying their instalments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. 
-# [3. Prediction of Demand for shared bikes using Linear regression](https://github.com/anks1312/Ankur_Portfolio/tree/main/Bike_Rental_Linear_Regression)
+# [3. Prediction of Demand for shared bikes using Linear regression](https://github.com/anks1312/Ankur_Portfolio/tree/main/bike_Rental)
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 A US bike-sharing provider has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. Lets say that the company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
@@ -21,7 +21,7 @@ A US bike-sharing provider has recently suffered considerable dips in their rev
 I have built a linear regression model for the following findings:
 	> Which variables are significant in predicting the demand for shared bikes.
 	> How well those variables describe the bike demands
-# [4. Categorizing the countries in terms of socio-economic and health factors using Clustering](https://github.com/anks1312/Ankur_Portfolio/tree/main/Lead_Scoring)
+# [4. Categorizing the countries in terms of socio-economic and health factors using Clustering](https://github.com/anks1312/Ankur_Portfolio/tree/main/HELP_International)
 HELP International is an international humanitarian NGO that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities. It runs a lot of operational projects from time to time along with advocacy drives to raise awareness as well as for funding purposes.
  
 After the recent funding programmes, they have been able to raise around $ 10 million. The significant issues that come while making this decision are mostly related to choosing the countries that are in the direst need of aid. 
@@ -40,14 +40,14 @@ To make this process more efficient, lets identify the most potential leads, als
 
 A model needs to be built wherein there should be a lead score assigned to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance.
 
-# [6. Recommendations for RSVP Movies to launch its 1st international movie using SQL](https://github.com/anks1312/Ankur_Portfolio/tree/main/RSVP_Movies_SQL)
+# [6. Recommendations for RSVP Movies to launch its 1st international movie using SQL](https://github.com/anks1312/Ankur_Portfolio/tree/main/RSVP_Movie_SQL)
 RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022.
 
 ![](/Images/RSVP_Movies.png)
 
 Lets plan production company's every move analytically based on data to provide recommendations for new project. The entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables.
 
-# [7. Analysing customer behaviour for an ecommerce company using Hive and AWS](https://github.com/anks1312/Ankur_Portfolio/tree/main/RSVP_Movies_SQL)
+# [7. Analysing customer behaviour for an ecommerce company using Hive and AWS](https://github.com/anks1312/Ankur_Portfolio/tree/main/Hive Case Study)
 With online sales gaining popularity, tech companies are exploring ways to improve their sales by analysing customer behaviour and gaining insights about product trends. Furthermore, the websites make it easier for customers to find the products that they require without much scavenging. The part of this assignment is to extract data and gather insights from a real-life data set of an e-commerce company.
 
 So before we get into the details of the dataset, let us understand how eCommerce companies make use of these concepts to give customers product recommendations. This is done by tracking your clicks on their website and searching for patterns within them. This kind of data is called a clickstream data.
